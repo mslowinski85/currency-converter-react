@@ -3,8 +3,7 @@ import "./style.css";
 
 const Form = () => (
   <form className="form">
-    <fieldset className="form__filedset">
-      <legend className="form__legend">Kalkulator walutowy</legend>
+    <fieldset>
       <p>
         <label>
           <span className="form__labelText">Pole wymagane*</span>
