@@ -9,6 +9,12 @@
     margin: 5px;
 }
 
+.form__labelTextRequired{
+    font-size: small;
+    font-weight: 700;
+    margin: 5px;
+}
+
 .form__sumLabel {
     font-size: large;
     font-weight: 900;
